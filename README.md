@@ -1,6 +1,5 @@
 # Klassificering av ansiktsuttryck med CNN
 
-Examensuppgift i kursen Deep Learning.
 
 Det här projektet bygger ett neuralt nätverk (CNN) som klassificerar
 ansiktsuttryck i sju kategorier: angry, disgust, fear, happy, neutral,
