@@ -1,0 +1,15 @@
+# Data - för stort för GitHub
+data/
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
